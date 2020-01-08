@@ -52,16 +52,6 @@ Für Windows (und Linux und OSX) wird eine graphische Oberfläche mitsamt eigene
 ---
 
 
-## Weitere Graphische Benutzeroberflächen
-
-Neben der hier verwendeten Benutzeroberfläche gibt es diverse weitere.
-
-Auf der Webseite von Git findet sich [eine Auswahl](https://git-scm.com/download/gui/windows).
-
-
----
-
-
 ## Graphische Oberfläche in Windows
 
 ![Git integriert sich in das Kontextmenü des Windows-Explorers](https://raw.githubusercontent.com/dhlab-ub-fau-de/git-tutorial/master/windows_context_menu.png)
@@ -89,3 +79,13 @@ Git integriert sich ins Kontextmenü des Explorers.
 ![Die Kommandozeile Git Bash](https://raw.githubusercontent.com/dhlab-ub-fau-de/git-tutorial/master/git_bash.png)
 
 Git liefert unter Windows eine vollwertige Kommandozeilenumgebung mit.
+
+
+---
+
+
+## Weitere Graphische Benutzeroberflächen
+
+Neben der hier verwendeten Benutzeroberfläche gibt es diverse weitere.
+
+Auf der Webseite von Git findet sich [eine Auswahl](https://git-scm.com/download/gui/windows).
