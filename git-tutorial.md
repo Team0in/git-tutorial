@@ -7,11 +7,25 @@ Dezentrale Versionierung von Dateien
 ---
 
 
-## Git 
+## Git
 
 [Git](http://git-scm.com/) ist ein Source Code Management System. Man kann mit ihm
 - Dateiversionen verwalten
 - verteilt arbeiten
+
+
+---
+
+
+### Git und Source Code Management
+
+Git ist primär zur Verwaltung von Source Code (Programmcode) entwickelt.
+
+Da Programmcode typischerweise in reinen Textdateien (wie .txt) niedergelegt wird,
+sind viele Funktionen von Git darauf ausgelegt.
+
+Daher eignet sich Git besonders zur Verwaltung von Textdateien.
+Es können prinzipiell aber beliebige Dateitypen verwaltet werden.
 
 
 ---
@@ -33,6 +47,16 @@ Git selbst ist ein Kommandozeilenprogramm. Man bedient es über Befehle auf der 
 `git <kommando> <parameter>...`
 
 Für Windows (und Linux und OSX) wird eine graphische Oberfläche mitsamt eigener Shell (Bash) angeboten.
+
+
+---
+
+
+## Weitere Graphische Benutzeroberflächen
+
+Neben der hier verwendeten Benutzeroberfläche gibt es diverse weitere.
+
+Auf der Webseite von Git findet sich [eine Auswahl](https://git-scm.com/download/gui/windows).
 
 
 ---
@@ -65,6 +89,3 @@ Git integriert sich ins Kontextmenü des Explorers.
 ![Die Kommandozeile Git Bash](https://raw.githubusercontent.com/dhlab-ub-fau-de/git-tutorial/master/git_bash.png)
 
 Git liefert unter Windows eine vollwertige Kommandozeilenumgebung mit.
-
-
-
