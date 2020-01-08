@@ -35,3 +35,36 @@ Git selbst ist ein Kommandozeilenprogramm. Man bedient es über Befehle auf der 
 Für Windows (und Linux und OSX) wird eine graphische Oberfläche mitsamt eigener Shell (Bash) angeboten.
 
 
+---
+
+
+## Graphische Oberfläche in Windows
+
+![Git integriert sich in das Kontextmenü des Windows-Explorers](windows_context_menu.png)
+
+Git integriert sich ins Kontextmenü des Explorers.
+- Über "Git GUI Here" wird die graphische Benutzeroberfläche gestartet.
+- Über "Git Bash Here" wird die Shell / Kommandozeile geöffnet.
+
+
+---
+
+
+### Git GUI
+
+![Die graphische Oberfläche Git GUI](git_gui.png)
+
+Über die Menüs der Git GUI sind die gängigsten Befehle verfügbar.
+
+
+---
+
+
+### Git Bash
+
+![Die Kommandozeile Git Bash](git_bash.png)
+
+Git liefert unter Windows eine vollwertige Kommandozeilenumgebung mit.
+
+
+
