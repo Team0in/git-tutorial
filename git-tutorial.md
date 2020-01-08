@@ -17,6 +17,20 @@ Dezentrale Versionierung von Dateien
 ---
 
 
+### Git und Source Code Management
+
+Git ist primär zur Verwaltung von Source Code (Programmcode) entwickelt.
+
+Da Programmcode typischerweise in reinen Textdateien (wie .txt) niedergelegt wird,
+sind viele Funktionen von Git darauf ausgelegt.
+
+Daher eignet sich Git besonders zur Verwaltung von Textdateien.
+Es können prinzipiell aber beliebige Dateitypen verwaltet werden.
+
+
+---
+
+
 ## Installation
 
 - [Für Windows](http://gitforwindows.com/) gibt es einen Installer.
@@ -65,3 +79,14 @@ Git integriert sich ins Kontextmenü des Explorers.
 ![Die Kommandozeile Git Bash](https://raw.githubusercontent.com/dhlab-ub-fau-de/git-tutorial/master/git_bash.png)
 
 Git liefert unter Windows eine vollwertige Kommandozeilenumgebung mit.
+
+
+---
+
+
+## Weitere Graphische Benutzeroberflächen
+
+Neben der hier verwendeten Benutzeroberfläche gibt es diverse weitere.
+
+Auf der Webseite von Git findet sich [eine Auswahl](https://git-scm.com/download/gui/windows).
+
