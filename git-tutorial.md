@@ -1,11 +1,10 @@
 # Eine kurze Einführung in Git
 
-- - - - - - - - - - - - - - - - - - -
 
 Dezentrale Versionierung von Dateien
 
 
-===
+---
 
 
 ## Git 
@@ -15,7 +14,7 @@ Dezentrale Versionierung von Dateien
 - verteilt arbeiten
 
 
-===
+---
 
 
 ## Installation
@@ -25,7 +24,7 @@ Dezentrale Versionierung von Dateien
 - Für Linux oder OSX gibt es entsprechende Paketquellen.
 
 
-===
+---
 
 
 ## Benutzung
